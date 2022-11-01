@@ -15,4 +15,7 @@ Run the cli program, A prompt asking you to enter your pin is displayed, once th
 When a user completes an operation, you should asked them if they want to perform another operation before finally exiting the program.
 Have fun while at it.
 
+## Author
+Sunday JIMOH
+
 
